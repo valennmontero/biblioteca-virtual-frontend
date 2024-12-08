@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/valennmontero/biblioteca-virtual-frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/valennmontero/biblioteca-virtual-frontend/static/js/main.b9267327.js",
+    "static/js/156.a3dbd1e9.chunk.js": "/valennmontero/biblioteca-virtual-frontend/static/js/156.a3dbd1e9.chunk.js",
+    "index.html": "/valennmontero/biblioteca-virtual-frontend/index.html",
+    "main.e6c13ad2.css.map": "/valennmontero/biblioteca-virtual-frontend/static/css/main.e6c13ad2.css.map",
+    "main.b9267327.js.map": "/valennmontero/biblioteca-virtual-frontend/static/js/main.b9267327.js.map",
+    "156.a3dbd1e9.chunk.js.map": "/valennmontero/biblioteca-virtual-frontend/static/js/156.a3dbd1e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b9267327.js"
+  ]
+}
